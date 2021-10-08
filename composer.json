@@ -1,0 +1,23 @@
+{
+    "name": "alexanderhorner/laravel-orbit-html-driver",
+    "description": "A HTML driver for laravel orbit, a flat-file driver for Laravel Eloquent.",
+    "require": {
+        "ryangjchandler/orbit": "^0.9.1",
+        "php": "^7.4 || ^8.0",
+        "illuminate/database": "^8.0",
+        "spatie/yaml-front-matter": "^2.0",
+        "symfony/yaml": "^3.0 || ^4.0 || ^5.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alexanderhorner\\LaravelOrbitHtmlDriver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Horner",
+            "email": "mail@alexanderhorner.com"
+        }
+    ]
+}
