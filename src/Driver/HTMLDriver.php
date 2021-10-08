@@ -1,6 +1,6 @@
 <?php
 
-namespace Orbit\Drivers;
+namespace Alexanderhorner\LaravelOrbitHtmlDriver\Driver;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Schema\Blueprint;
