@@ -8,7 +8,7 @@ use Spatie\YamlFrontMatter\YamlFrontMatter;
 use SplFileInfo;
 use Symfony\Component\Yaml\Yaml;
 
-class HTML extends FileDriver
+class HTMLDriver extends FileDriver
 {
     protected static $contentColumn = 'content';
 
