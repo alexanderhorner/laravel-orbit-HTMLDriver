@@ -7,6 +7,7 @@ use Illuminate\Database\Schema\Blueprint;
 use Spatie\YamlFrontMatter\YamlFrontMatter;
 use SplFileInfo;
 use Symfony\Component\Yaml\Yaml;
+use \Orbit\Drivers\FileDriver;
 
 class HTMLDriver extends FileDriver
 {
