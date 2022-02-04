@@ -2,7 +2,7 @@
     "name": "alexanderhorner/laravel-orbit-html-driver",
     "description": "A HTML driver for laravel orbit, a flat-file driver for Laravel Eloquent.",
     "require": {
-        "ryangjchandler/orbit": "^0.9.1",
+        "ryangjchandler/orbit": "*",
         "php": "^7.4 || ^8.0",
         "illuminate/database": "^8.0",
         "spatie/yaml-front-matter": "^2.0",
